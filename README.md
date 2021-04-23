@@ -6,4 +6,3 @@
 
 **My final Project2 em chạy song song 2 browser mỗi browser 5 testcase**
 
-
