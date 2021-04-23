@@ -1,6 +1,8 @@
 ## AutomationPractice
 ***Author : Ngô Bá Cường** 
-** *Project: Training Automation Test**
+
+***Project: Training Automation Test**
+
 ***Date: 23/04/2021**
 
 **My Final Project em chạy test từ dòng lệnh từng testsuite, & chạy tổng thể toàn bộ testcases để đưa ra báo cáo**
