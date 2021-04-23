@@ -5,6 +5,8 @@
 
 ***Date: 23/04/2021**
 
+**Report Training automation testing**
+
 **My Final Project em chạy test từ dòng lệnh từng testsuite, & chạy tổng thể toàn bộ testcases để đưa ra báo cáo**
 
 *![Output Alltestsuit](https://user-images.githubusercontent.com/83066425/115892544-72e0be80-a481-11eb-8d19-c1eca4ac649b.png)*
