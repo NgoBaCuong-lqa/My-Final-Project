@@ -6,3 +6,4 @@
 
 **My final Project2 em chạy song song 2 browser mỗi browser 5 testcase**
 
+*![Output Alltestsuit](https://user-images.githubusercontent.com/83066425/115892544-72e0be80-a481-11eb-8d19-c1eca4ac649b.png)*
