@@ -1,7 +1,10 @@
-#AutomationPractice
-*Author:Ngo Ba Cuong- CuongNB
-*Project: Training Automation Test
-*Date: 23/04/2021
+**#AutomationPractice**
+
+**Author:Ngo Ba Cuong- CuongNB**
+
+**Project: Training Automation Test**
+
+**Date: 23/04/2021**
 
 **My Final Project on Github**
 
