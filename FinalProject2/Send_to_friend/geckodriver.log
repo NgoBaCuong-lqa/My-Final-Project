@@ -1,0 +1,31 @@
+1619081398006	geckodriver	INFO	Listening on 127.0.0.1:58154
+1619081401048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lqa\\AppData\\Local\\Temp\\rust_mozprofileug0sL5"
+1619081401635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619081405140	Marionette	INFO	Listening on port 58162
+1619081406051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619081435034	Marionette	INFO	Stopped listening on port 58162
+[Parent 18304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619081477614	geckodriver	INFO	Listening on 127.0.0.1:58228
+1619081480696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lqa\\AppData\\Local\\Temp\\rust_mozprofilenGa8Re"
+1619081481164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619081485380	Marionette	INFO	Listening on port 58236
+1619081485500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619081519411	Marionette	INFO	Stopped listening on port 58236
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619144862658	geckodriver	INFO	Listening on 127.0.0.1:49379
+1619144865724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lqa\\AppData\\Local\\Temp\\rust_mozprofileQzJ5iq"
+1619144866212	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619144869970	Marionette	INFO	Listening on port 49389
+1619144870022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619144901750	Marionette	INFO	Stopped listening on port 49389
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

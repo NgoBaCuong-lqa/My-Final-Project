@@ -1,0 +1,31 @@
+1619083447067	geckodriver	INFO	Listening on 127.0.0.1:59404
+1619083450127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lqa\\AppData\\Local\\Temp\\rust_mozprofileblqoGN"
+1619083450627	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619083456057	Marionette	INFO	Listening on port 59413
+1619083456510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619083463457	Marionette	INFO	Stopped listening on port 59413
+[Child 5692, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619083481579	geckodriver	INFO	Listening on 127.0.0.1:59489
+1619083484635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lqa\\AppData\\Local\\Temp\\rust_mozprofile3gpyAY"
+1619083485170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619083489522	Marionette	INFO	Listening on port 59498
+1619083490008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619083497858	Marionette	INFO	Stopped listening on port 59498
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619085097325	geckodriver	INFO	Listening on 127.0.0.1:60763
+1619085100389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lqa\\AppData\\Local\\Temp\\rust_mozprofile3iRAsq"
+1619085100903	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619085104799	Marionette	INFO	Listening on port 60773
+1619085105200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619085111678	Marionette	INFO	Stopped listening on port 60773
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
