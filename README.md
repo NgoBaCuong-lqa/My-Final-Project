@@ -18,4 +18,4 @@ My-Final-Project-main\FInalProjects\TestSuit\all_testsuit.py
 
 
 *![OutPut FireFox](https://user-images.githubusercontent.com/83066425/115894846-ef749c80-a483-11eb-9c9c-ef7ebe703430.png)*
-**3 MyfinalProkect2 chạy trên 2 browser Firefox và Chorme**
+**3 MyfinalProJect2 chạy trên 2 browser Firefox và Chorme**
